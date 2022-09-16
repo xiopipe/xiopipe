@@ -13,6 +13,7 @@ self-taught and experienced fullStack web developer with a profressional degree 
 <a href="https://www.twitter.com/xiopipe" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/xiopipe?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+![Profile views](https://gpvc.arturio.dev/xiopipe)  
 
 ### Skills
 
