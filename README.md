@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 i'm Freelancer web developer
 ----------------------------
 
-self-taught and experienced fullStack web developer with a profressional degree in Biology.With a history of participation and development of SPAs, PWAs, APIs and their deployment. Qualified in the design of relational databases, APIs, software architecture, interface design and layout. Looking for new challenges and experiences.
+self-taught and experienced fullStack web developer with a profressional degree in Biology. With a history of participation and development of SPAs, PWAs, APIs and their deployment. Qualified in the design of relational databases, APIs, software architecture, interface design and layout. Looking for new challenges and experiences.
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [xiopipe@gmail.com](mailto:xiopipe@gmail.com)
